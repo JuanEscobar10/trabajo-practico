@@ -1,6 +1,6 @@
-import streamlit as st #Se instalo en el editor
+import streamlit as st
 import numpy as np
-import matplotlib.pyplot as plt #se instalo en el editor
+import matplotlib.pyplot as plt 
 
 # Configuración del título
 st.title("Cálculo del Valor Presente Neto (VPN)")
